@@ -1,0 +1,61 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "name":"Lily of the Incas",
+            "color":"white and pink"
+        },
+        {
+            "id": 2,
+            "name":"Common Daisy",
+            "color":"white and yellow"
+        },
+        {
+            "id": 3,
+            "name":"Rose",
+            "color":"red"
+        },
+        {
+            "id": 4,
+            "name":"Orchids",
+            "color":"purple"
+        },
+        {
+            "id": 5,
+            "name":"Gardenia",
+            "color":"white"
+        }
+        
+    ],
+    
+        "retailers": [
+            {
+                "id": 1,
+                "name":"FLWR Shop",
+                "location":"Nashville"
+            },
+            {
+                "id": 2,
+                "name":"Hodys Florist",
+                "location":"Brentwood"
+            },
+            {
+                "id": 3,
+                "name":"Amelia's Flowers",
+                "location":"Franklin"
+            },
+            {
+                "id": 4,
+                "name":"Ruth's Flowers",
+                "location":"Goodlettsville"
+            },
+            {
+                "id": 5,
+                "name":"The Flower Patch",
+                "location":"Clarksville"
+            }
+
+        ]
+    
+       
+}

@@ -33,33 +33,59 @@
                 "id": 1,
                 "name":"FLWR Shop",
                 "city":"Nashville",
-                "state":"Tennessee"
+                "state":"Tennessee",
+                "distributorId":3
             },
             {
                 "id": 2,
                 "name":"Hodys Florist",
                 "city":"Brentwood",
-                "state":"Tennessee"
+                "state":"Tennessee",
+                "distributorId":2
             },
             {
                 "id": 3,
                 "name":"Amelia's Flowers",
                 "city":"Franklin",
-                "state":"Tennessee"
+                "state":"Tennessee",
+                "distributorId":1
             },
             {
                 "id": 4,
                 "name":"Ruth's Flowers",
                 "city":"Goodlettsville",
-                "state":"Tennessee"
+                "state":"Tennessee",
+                "distributorId":2
             },
             {
                 "id": 5,
                 "name":"The Flower Patch",
                 "city":"Clarksville",
-                "state":"Tennessee"
+                "state":"Tennessee",
+                "distributorId":3
             }
 
+        ],
+
+        "distributors":[
+            {
+                "id": 1,
+                "name":"Capital Wholesale Florist Inc",
+                "city":"Nashville",
+                "state":"Tennessee"
+            },
+            {
+                "id": 2,
+                "name":"Dreisbach Wholesale Florists",
+                "city":"Nashville",
+                "state":"Tennessee"
+            },
+            {
+                "id": 3,
+                "name":"Nashville Flower Market",
+                "city":"Nashville",
+                "state":"Tennessee"
+            }
         ]
     
        

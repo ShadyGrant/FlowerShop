@@ -32,27 +32,32 @@
             {
                 "id": 1,
                 "name":"FLWR Shop",
-                "location":"Nashville"
+                "city":"Nashville",
+                "state":"Tennessee"
             },
             {
                 "id": 2,
                 "name":"Hodys Florist",
-                "location":"Brentwood"
+                "city":"Brentwood",
+                "state":"Tennessee"
             },
             {
                 "id": 3,
                 "name":"Amelia's Flowers",
-                "location":"Franklin"
+                "city":"Franklin",
+                "state":"Tennessee"
             },
             {
                 "id": 4,
                 "name":"Ruth's Flowers",
-                "location":"Goodlettsville"
+                "city":"Goodlettsville",
+                "state":"Tennessee"
             },
             {
                 "id": 5,
                 "name":"The Flower Patch",
-                "location":"Clarksville"
+                "city":"Clarksville",
+                "state":"Tennessee"
             }
 
         ]
